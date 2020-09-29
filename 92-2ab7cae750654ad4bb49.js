@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[92],{985:function(e,t,n){"use strict";var a=n(4);Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var d=a(n(0)),r=a(n(909)),u=a(n(910)),l=function(){return d.default.createElement(u.default,null,d.default.createElement(r.default,{identifier:"root-component",disclosureType:"panel",renderHeaderAdapter:!0}))};t.default=l}}]);
+//# sourceMappingURL=92-2ab7cae750654ad4bb49.js.map
